@@ -11,6 +11,7 @@ let frameCount = 0;
 let myTextIndex = 0;
 let myText = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
+// Finally GitHub works 0o 
 function setup() {
   createCanvas(1950, 950);
   lHand = createVector(0, 0);    //Vergessen umzustellen
